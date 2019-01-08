@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.88
+- name: jx-demo-190108-175542
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: jx-demo-190108-175546
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
