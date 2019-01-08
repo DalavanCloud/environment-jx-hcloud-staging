@@ -13,6 +13,9 @@ dependencies:
 - name: jx-demo-190108-175546
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-demo-190108-180036
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: jx-sample-spring-data-postgresql
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.1.22
